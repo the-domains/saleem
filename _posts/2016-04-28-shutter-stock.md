@@ -5,12 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: the art of design
-datePublished: '2016-04-28T02:00:50.584Z'
-dateModified: '2016-04-28T02:00:45.368Z'
+datePublished: '2016-04-28T02:03:09.194Z'
+dateModified: '2016-04-28T02:00:59.803Z'
 title: shutter stock
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-28-shutter-stock.md
+published: true
 authors: []
 publisher:
   name: null
@@ -18,8 +20,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-shutter-stock.md
-published: true
 url: shutter-stock/index.html
 _type: Article
 
