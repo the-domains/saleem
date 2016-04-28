@@ -1,7 +1,7 @@
 name: saleem
 favicon: null
-layout_spectrum: 0.6995977349579334
-typography_spectrum: 0.7032838191371411
+layout_spectrum: 0
+typography_spectrum: 0.83495
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.3125
   lightness: 0.4524886088911444
   saturation: 0.3679455714300275
-  rhythmicContrast: 0.9958025712985545
+  rhythmicContrast: 1
 purpose: []
