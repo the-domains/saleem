@@ -1,28 +1,40 @@
-name: saleem
-favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.83495
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#131313'
-    - '#ffffff'
-    - '#694215'
-    - '#be2418'
-    - '#d89d40'
-  brandStrength: 0.3125
-  lightness: 0.4524886088911444
-  saturation: 0.3679455714300275
-  rhythmicContrast: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3679455714300275
+  brandStrength: 1
+  lightness: 0.4524886088911444
+  brandColors:
+    - '#FFFFFF'
+    - '#7C6F69'
+    - '#D32127'
+    - '#A19997'
+    - '#312D2C'
+  rhythmicContrast: 1
+typography_spectrum: 0.83495
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: saleem
